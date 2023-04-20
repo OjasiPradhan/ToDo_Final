@@ -1,0 +1,299 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Cquential.Microsoft.Practices.Unity/2.0.414": {
+        "type": "package",
+        "compile": {
+          "lib/net35/Microsoft.Practices.Unity.dll": {}
+        },
+        "runtime": {
+          "lib/net35/Microsoft.Practices.Unity.dll": {}
+        }
+      },
+      "Newtonsoft.Json/13.0.3": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/net6.0/Newtonsoft.Json.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll": {
+            "related": ".xml"
+          }
+        }
+      },
+      "Unity/5.11.10": {
+        "type": "package",
+        "dependencies": {
+          "System.Runtime.CompilerServices.Unsafe": "4.5.2"
+        },
+        "compile": {
+          "lib/netcoreapp3.0/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/netcoreapp3.0/Unity.Container.dll": {
+            "related": ".pdb"
+          }
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/Unity.Abstractions.dll": {
+            "related": ".pdb"
+          },
+          "lib/netcoreapp3.0/Unity.Container.dll": {
+            "related": ".pdb"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cquential.Microsoft.Practices.Unity/2.0.414": {
+      "sha512": "6AAXoONHtiNdfjiXoBWmnPHiNsBwNTbHpeVT711BA9mrSMOceUMoqxZdLx/XWMj3+1hftJYzK1le2LtMJqjSjg==",
+      "type": "package",
+      "path": "cquential.microsoft.practices.unity/2.0.414",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "cquential.microsoft.practices.unity.2.0.414.nupkg.sha512",
+        "cquential.microsoft.practices.unity.nuspec",
+        "lib/net35/Microsoft.Practices.Unity.dll"
+      ]
+    },
+    "Newtonsoft.Json/13.0.3": {
+      "sha512": "HrC5BXdl00IP9zeV+0Z848QWPAoCr9P3bDEZguI+gkLcBKAOxix/tLEAAHC+UvDNPv4a2d18lOReHMOagPa+zQ==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "README.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/net6.0/Newtonsoft.Json.dll",
+        "lib/net6.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.3.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "System.Runtime.CompilerServices.Unsafe/4.5.2": {
+      "sha512": "wprSFgext8cwqymChhrBLu62LMg/1u92bU+VOwyfBimSPVFXtsNqEWC92Pf9ofzJFlk4IHmJA75EDJn1b2goAQ==",
+      "type": "package",
+      "path": "system.runtime.compilerservices.unsafe/4.5.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netcoreapp2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "lib/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard1.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.dll",
+        "ref/netstandard2.0/System.Runtime.CompilerServices.Unsafe.xml",
+        "system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+        "system.runtime.compilerservices.unsafe.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "Unity/5.11.10": {
+      "sha512": "B4+Ps3oqI78hJ+dAFsJhPkJT6qycsNExgLbtw7CEHSzKc2ac3YyUR8SHQ+ZyTwld/y5IbDx/aNOHnKE9Em1zWA==",
+      "type": "package",
+      "path": "unity/5.11.10",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net40/Unity.Abstractions.dll",
+        "lib/net40/Unity.Abstractions.pdb",
+        "lib/net40/Unity.Container.dll",
+        "lib/net40/Unity.Container.pdb",
+        "lib/net45/Unity.Abstractions.dll",
+        "lib/net45/Unity.Abstractions.pdb",
+        "lib/net45/Unity.Container.dll",
+        "lib/net45/Unity.Container.pdb",
+        "lib/net46/Unity.Abstractions.dll",
+        "lib/net46/Unity.Abstractions.pdb",
+        "lib/net46/Unity.Container.dll",
+        "lib/net46/Unity.Container.pdb",
+        "lib/net47/Unity.Abstractions.dll",
+        "lib/net47/Unity.Abstractions.pdb",
+        "lib/net47/Unity.Container.dll",
+        "lib/net47/Unity.Container.pdb",
+        "lib/net48/Unity.Abstractions.dll",
+        "lib/net48/Unity.Abstractions.pdb",
+        "lib/net48/Unity.Container.dll",
+        "lib/net48/Unity.Container.pdb",
+        "lib/netcoreapp1.0/Unity.Abstractions.dll",
+        "lib/netcoreapp1.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp1.0/Unity.Container.dll",
+        "lib/netcoreapp1.0/Unity.Container.pdb",
+        "lib/netcoreapp2.0/Unity.Abstractions.dll",
+        "lib/netcoreapp2.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp2.0/Unity.Container.dll",
+        "lib/netcoreapp2.0/Unity.Container.pdb",
+        "lib/netcoreapp3.0/Unity.Abstractions.dll",
+        "lib/netcoreapp3.0/Unity.Abstractions.pdb",
+        "lib/netcoreapp3.0/Unity.Container.dll",
+        "lib/netcoreapp3.0/Unity.Container.pdb",
+        "lib/netstandard1.0/Unity.Abstractions.dll",
+        "lib/netstandard1.0/Unity.Abstractions.pdb",
+        "lib/netstandard1.0/Unity.Container.dll",
+        "lib/netstandard1.0/Unity.Container.pdb",
+        "lib/netstandard2.0/Unity.Abstractions.dll",
+        "lib/netstandard2.0/Unity.Abstractions.pdb",
+        "lib/netstandard2.0/Unity.Container.dll",
+        "lib/netstandard2.0/Unity.Container.pdb",
+        "unity.5.11.10.nupkg.sha512",
+        "unity.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Cquential.Microsoft.Practices.Unity >= 2.0.414",
+      "Newtonsoft.Json >= 13.0.3",
+      "Unity >= 5.11.10"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\OjasiPradhan\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\OjasiPradhan\\Desktop\\ToDoApiFilter\\To Do Application\\Commons\\ToDo.Common.csproj",
+      "projectName": "ToDo.Common",
+      "projectPath": "C:\\Users\\OjasiPradhan\\Desktop\\ToDoApiFilter\\To Do Application\\Commons\\ToDo.Common.csproj",
+      "packagesPath": "C:\\Users\\OjasiPradhan\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\OjasiPradhan\\Desktop\\ToDoApiFilter\\To Do Application\\Commons\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\OjasiPradhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Cquential.Microsoft.Practices.Unity": {
+            "target": "Package",
+            "version": "[2.0.414, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
+          },
+          "Unity": {
+            "target": "Package",
+            "version": "[5.11.10, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[6.0.15, 6.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[6.0.15, 6.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[6.0.15, 6.0.15]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[6.0.15, 6.0.15]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Cquential.Microsoft.Practices.Unity 2.0.414' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Cquential.Microsoft.Practices.Unity",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

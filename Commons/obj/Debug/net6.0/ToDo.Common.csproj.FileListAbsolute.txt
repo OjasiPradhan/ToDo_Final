@@ -1,0 +1,77 @@
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.exe
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.deps.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.runtimeconfig.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.pdb
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.AssemblyReference.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfoInputs.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfo.cs
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CoreCompileInputs.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CopyComplete
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\refint\ToDo.Common.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.pdb
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.genruntimeconfig.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ref\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.exe
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.deps.json
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.runtimeconfig.json
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.AssemblyReference.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfoInputs.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfo.cs
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CoreCompileInputs.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CopyComplete
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\refint\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.genruntimeconfig.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ref\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Microsoft.Practices.Unity.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Unity.Container.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.exe
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.deps.json
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.runtimeconfig.json
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Microsoft.Practices.Unity.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Unity.Container.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.AssemblyReference.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfoInputs.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfo.cs
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CoreCompileInputs.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CopyComplete
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\refint\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.genruntimeconfig.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ref\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.exe
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.deps.json
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.runtimeconfig.json
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\Microsoft.Practices.Unity.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\bin\Debug\net6.0\Unity.Container.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.AssemblyReference.cache
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfoInputs.cache
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.AssemblyInfo.cs
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CoreCompileInputs.cache
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.csproj.CopyComplete
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\refint\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ToDo.Common.genruntimeconfig.cache
+C:\Users\OjasiPradhan\Desktop\ToDoApiFilter\To Do Application\Commons\obj\Debug\net6.0\ref\ToDo.Common.dll

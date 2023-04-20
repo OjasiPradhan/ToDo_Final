@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wx7g+edAOTyS2CF+8K3W38Ny6VzXhU70JGoXQ4Qh5hpUXvUIAbhdgMqtwB/xlwGk9VvEIFeayqMZHQkamnmw8A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OjasiPradhan\\Desktop\\Final 1\\Complete To Do Application\\To do Applcation\\To Do Application\\Container\\Container.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OjasiPradhan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\OjasiPradhan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\OjasiPradhan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\OjasiPradhan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

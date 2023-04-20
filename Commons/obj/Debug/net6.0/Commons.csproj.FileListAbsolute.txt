@@ -1,0 +1,17 @@
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Commons.exe
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Commons.deps.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Commons.runtimeconfig.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Commons.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Commons.pdb
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.csproj.AssemblyReference.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.AssemblyInfoInputs.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.AssemblyInfo.cs
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.csproj.CoreCompileInputs.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.csproj.CopyComplete
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\refint\Commons.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.pdb
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\Commons.genruntimeconfig.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Commons\obj\Debug\net6.0\ref\Commons.dll

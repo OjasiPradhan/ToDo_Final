@@ -1,0 +1,5 @@
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache

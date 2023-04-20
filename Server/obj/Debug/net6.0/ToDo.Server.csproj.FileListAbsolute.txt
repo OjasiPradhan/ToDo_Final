@@ -1,0 +1,90 @@
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.AssemblyReference.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.AssemblyInfoInputs.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.AssemblyInfo.cs
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.CoreCompileInputs.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.deps.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.runtimeconfig.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.exe
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.exe
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.deps.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.runtimeconfig.json
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.pdb
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.pdb
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.CopyComplete
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\refint\ToDo.Server.dll
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.pdb
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.genruntimeconfig.cache
+C:\Users\AdityaJangir\Desktop\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ref\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.deps.json
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.runtimeconfig.json
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.exe
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.exe
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.deps.json
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.runtimeconfig.json
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.pdb
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.AssemblyReference.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.AssemblyInfoInputs.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.AssemblyInfo.cs
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.CoreCompileInputs.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.CopyComplete
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\refint\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.pdb
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.genruntimeconfig.cache
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ref\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Microsoft.Practices.Unity.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\OjasiPradhan\Desktop\Final 1\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Unity.Container.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.deps.json
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.runtimeconfig.json
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.exe
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.exe
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.deps.json
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.runtimeconfig.json
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Server.pdb
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Microsoft.Practices.Unity.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Unity.Abstractions.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\Unity.Container.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\bin\Debug\net6.0\ToDo.Common.pdb
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.AssemblyReference.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.AssemblyInfoInputs.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.AssemblyInfo.cs
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.CoreCompileInputs.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.csproj.CopyComplete
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\refint\ToDo.Server.dll
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.pdb
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ToDo.Server.genruntimeconfig.cache
+C:\Users\OjasiPradhan\Desktop\op_TOdo\Complete To Do Application\To do Applcation\To Do Application\Server\obj\Debug\net6.0\ref\ToDo.Server.dll

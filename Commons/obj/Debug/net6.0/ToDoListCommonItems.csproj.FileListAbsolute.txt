@@ -1,0 +1,34 @@
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.exe
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.deps.json
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.runtimeconfig.json
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.pdb
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.csproj.AssemblyReference.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.AssemblyInfoInputs.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.AssemblyInfo.cs
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.csproj.CoreCompileInputs.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.csproj.CopyComplete
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\refint\ToDoListCommonItems.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.pdb
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.genruntimeconfig.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ref\ToDoListCommonItems.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.csproj.AssemblyReference.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.AssemblyInfoInputs.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.AssemblyInfo.cs
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.csproj.CoreCompileInputs.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\refint\ToDoListCommonItems.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.pdb
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.exe
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.deps.json
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.runtimeconfig.json
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\ToDoListCommonItems.pdb
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.csproj.CopyComplete
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ToDoListCommonItems.genruntimeconfig.cache
+C:\Users\AdityaJangir\Desktop\ToDo_List - Copy\Todo_List\ToDoList\ToDoListCommonItems\obj\Debug\net6.0\ref\ToDoListCommonItems.dll
